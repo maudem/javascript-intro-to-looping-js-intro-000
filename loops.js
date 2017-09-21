@@ -8,4 +8,4 @@ const forLoop= (array) => {
   }
 }
 
-makeArray();
+forLoop();
