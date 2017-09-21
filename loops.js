@@ -7,5 +7,3 @@ var forLoop = () => {
     return array
   }
 }
-
-forLoop();
