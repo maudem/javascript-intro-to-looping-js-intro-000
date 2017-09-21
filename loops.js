@@ -11,4 +11,3 @@ var forLoop = () => {
   }
   return [array, t]
 }
-
