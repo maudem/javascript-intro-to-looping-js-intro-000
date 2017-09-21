@@ -1,5 +1,5 @@
 
-var forLoop = () => {
+var forLoop = (array) => {
   const array=[]
   const t = Math.floor(Math.random() * 10)
   for (let i=0; i<t; i++) {
