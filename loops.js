@@ -1,5 +1,5 @@
 
-var forLoop = (array) => {
+var forLoop = () => {
   let array=[]
 
   for (let i=0; i<25; i++) {
